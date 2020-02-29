@@ -23,7 +23,8 @@ For the course: **CS 21: Introduction to Computing I** back in December 2018.\
 
 
 ### Execute Program  
-[Run Program](ReliefConsole.exe)   
-or [Open Program Code](GarciaFinalProj.sln)  
+[Run Program](ReliefCenter.exe)   
+or [See Program Code](GarciaFinalProj.sln)  
+*The executable is virus-free and safe to download*
 
 -- Giddy Garcia
